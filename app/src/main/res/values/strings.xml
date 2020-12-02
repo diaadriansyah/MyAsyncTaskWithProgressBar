@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyAsyncTaskWithProgressBar</string>
+    <string name="start">Mulai</string>
+    <string name="progress">Progress Bar</string>
+</resources>
